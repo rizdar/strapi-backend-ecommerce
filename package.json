@@ -15,8 +15,7 @@
     "@strapi/plugin-users-permissions": "4.5.5",
     "@strapi/provider-upload-cloudinary": "^4.5.5",
     "@strapi/strapi": "4.5.5",
-    "better-sqlite3": "7.4.6",
-    "strapi-plugin-vercel-deploy": "^1.4.0"
+    "better-sqlite3": "7.4.6"
   },
   "author": {
     "name": "A Strapi developer"
